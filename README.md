@@ -7,9 +7,7 @@ Right now, there are only five levels.
 1. Clone the respitory
 2. Open up Command Prompt and open up Python
 3. Install the following libraries (using <code>pip install</code>):
-
-**Pygame**
-
+* **Pygame**
 4. Launch the Python file
 5. Now the game should work!
 <img src="https://github.com/Vadims980s/game.py/blob/main/screenshot.png">
