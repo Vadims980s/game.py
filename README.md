@@ -1,3 +1,4 @@
+(note: this was made during my programming courses at Rocket Tech School.)
 # game.py
 A game I've made using **pygame** (Python).
 In this game, you can move, jump (through lava), collect coins and pass through a few levels.
